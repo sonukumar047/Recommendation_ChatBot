@@ -4,8 +4,6 @@
 
 MoviesBot is a responsive chatbot application built using Flask, HTML, CSS, and JavaScript. It allows users to ask questions related to movies and provides relevant answers based on a pre-defined database. The chatbot also offers suggestions based on the conversation history to enhance user interaction.
 
-![MoviesBot Preview](https://app.netlify.com/sites/sprightly-truffle-f1c7a7/overview)
-
 ## Features
 
 - **Question-Answering:** Users can ask questions about movies, and the chatbot provides accurate answers based on the available data.
